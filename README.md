@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A Student in love with programming and data science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-heck-acosta&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-heck-acosta" /> </p>
 
 - 🔭 I’m currently working on **developing a portfolio**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Science, Statistics and BI tools**
 
 - 📫 How to reach me **lucas.heck@live.com**
 
