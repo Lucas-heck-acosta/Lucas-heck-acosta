@@ -4,11 +4,9 @@
 
 - 🔭 I’m currently working on **developing a portfolio**
 
-- 🌱 I’m currently learning **Data Science, Statistics and BI tools**
+- 🌱 I’m currently learning **Front-end Development**
 
 - 📫 How to reach me **lucas.heck@live.com**
-
-- ⚡ Fun fact **95% of my time outside the house is at the gym**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
