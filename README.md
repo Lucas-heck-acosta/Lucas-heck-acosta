@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working at **Cebrace**
 
-- 🌱 I’m learning **Data Structures and Algorithms**
+- Stack:
+  • SAP CPI
+  • .NET
 
 - 📫 Reach me at **lucas.heck@live.com**
 
